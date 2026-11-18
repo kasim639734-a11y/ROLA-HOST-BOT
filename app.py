@@ -25,9 +25,9 @@ load_dotenv()
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-TOKEN = os.getenv('8216191940:AAGV64mOck3uF0pQAgt3nRD42ngvcZpWjvA')
-OWNER_ID_STR = os.getenv('8557470100')
-ADMIN_ID_STR = os.getenv('8557470100')
+TOKEN = os.getenv('9095437433:AAFGt10rl2UoJHEwLhz6b6PVE5cJ6puzKeU')
+OWNER_ID_STR = os.getenv('7546607487')
+ADMIN_ID_STR = os.getenv('7546607487')
 YOUR_USERNAME = os.getenv('@BGMIHACKERROLA')
 UPDATE_CHANNEL = os.getenv('https://t.me/bgmihack4or5')
 
